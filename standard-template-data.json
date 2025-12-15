@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-12-15T03:25:23.776Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-12-15T03:30:40.267Z",
     "templateType": "full_banner_image",
     "propertyId": "6ed56714-3848-431d-9bf5-8e3607848b5b",
     "homepageId": "e24dcbdf-cc93-4d02-818c-e01a7784a632"
@@ -1709,7 +1709,7 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": "예약안내",
                 "images": [
                   {
                     "id": "3c51ec46-dd83-4fe0-8dce-79bf21df644a",
@@ -1721,17 +1721,31 @@
                 ]
               },
               "about": {
-                "title": "",
+                "title": "양평 글램퍼스",
                 "images": [
                   {
                     "id": "d9653df9-6d7e-41d3-a5d6-0df1c3430981",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e24dcbdf-cc93-4d02-818c-e01a7784a632/reservation_about/1765762477673-4wvjkyz2ocu.jpeg",
                     "sortOrder": 0,
                     "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "af43a2a9-5497-4de4-832c-5625e5ee0143",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e24dcbdf-cc93-4d02-818c-e01a7784a632/reservation_about/1765769415056-vywkj9xa8qr.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "4d5678aa-18fe-4926-98c3-a7adcfac422b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e24dcbdf-cc93-4d02-818c-e01a7784a632/reservation_about/1765769415057-ag71dp265qq.jpeg",
+                    "sortOrder": 2,
+                    "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": ""
+                "description": "예약안내"
               }
             }
           ]
