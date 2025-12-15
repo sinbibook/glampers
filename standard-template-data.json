@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2025-12-15T03:32:55.735Z",
+    "version": "1.10.0",
+    "generatedAt": "2025-12-15T06:21:25.795Z",
     "templateType": "full_banner_image",
     "propertyId": "6ed56714-3848-431d-9bf5-8e3607848b5b",
     "homepageId": "e24dcbdf-cc93-4d02-818c-e01a7784a632"
@@ -12,8 +12,8 @@
     "description": "",
     "subtitle": "일상을 벗어나 자연의 여유를 즐길 수 있는 곳, 양평 글램퍼스.",
     "address": "경기 양평군 단월면 대부록길 38-3",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 37.5793408083128,
+    "longitude": 127.681956362175,
     "contactPhone": "010-8728-8955",
     "contactEmail": "glampersypj@naver.com",
     "checkin": "15:00:00",
