@@ -1,2 +1,2 @@
-# glampers
+# template-full-banner-image
 
