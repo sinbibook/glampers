@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2025-12-15T06:21:25.795Z",
+    "version": "1.11.0",
+    "generatedAt": "2025-12-17T00:01:30.644Z",
     "templateType": "full_banner_image",
     "propertyId": "6ed56714-3848-431d-9bf5-8e3607848b5b",
     "homepageId": "e24dcbdf-cc93-4d02-818c-e01a7784a632"
@@ -412,7 +412,7 @@
     "nameEn": "Yangpyeong Glampers",
     "domain": "glampers.kr",
     "realtimeBookingId": "9996",
-    "ybsId": ""
+    "ybsId": "75945"
   },
   "rooms": [
     {
