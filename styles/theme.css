@@ -1,13 +1,16 @@
-/* Theme CSS - 어드민 테마 커스터마이징용 변수 */
-/* 배포 시 어드민에서 선택한 값으로 덮어씀 */
+/* Font Faces */
+@font-face {
+  font-family: 'GowunDodum-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
 
+/* CSS Variables */
 :root {
-    /* 템플릿 기본 폰트 (테마 미선택 시 사용) */
-    --font-ko-main: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
-    --font-ko-sub: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
-    --font-en-main: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
-
-    /* 템플릿 기본 색상 (테마 미선택 시 사용) */
-    --color-primary: #fafaf9;
-    --color-secondary: #78716c;
+  --font-ko-main: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
+  --font-ko-sub: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
+  --font-en-main: 'GowunDodum-Regular', 'Apple SD Gothic Neo', sans-serif;
+  --color-primary: #fafaf9;
+  --color-secondary: #78716c;
 }
